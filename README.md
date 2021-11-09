@@ -11,12 +11,12 @@ BedA.blend, a bed:
 bathtubA.blend, a bathtub:
 <br /><img src="photo/bathtubA.PNG" width="400"><br />
 
-kitchenExhaustfanA.blend, a Exhaustfan:
+kitchenExhaustfanA.blend, an Exhaustfan:
 <br /><img src="photo/kitchenExhaustfanA1.PNG" width="400"><br />
 button of ExhaustfanA.blend
 <br /><img src="photo/kitchenExhaustfanA2.PNG" width="400"><br />
 
-lightA, a fluorescent light (tube type) without glass shield:
+lightA, a fluorescent light (tube type) without a glass shield:
 <br /><img src="photo/lightA.PNG" width="400"><br />
 
 sofaA, a big sofa:
@@ -31,7 +31,7 @@ washtabletsetA, a wash table with cabinet:
 cupA.blend, a cup:
 <br /><img src="photo/cupA.PNG" width="200"><br />
 
-switchA, a simple electical switch:
+switchA, a simple electrical switch:
 <br /><img src="photo/switchA.PNG" width="200"><br />
 
 
